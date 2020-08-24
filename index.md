@@ -2,27 +2,3 @@
 My name is Kenneth Lim. I started having interest in Machine Learning and Data Science in 2019 and have been studying on my own with the help of the mighty youtube and some MOOCs. It all started when I was in my Year 2 of university whereby I was taking a module called 'Element of Econometrics'. During that time I was puzzled on how does linear regression or classification will be used beyond after I graduated. Since then, I have build a strong interest into this field and have been learning it on my own paces. 
 
 This page will be a collection of projects that I will be doing and treating it like my little diary towards my goal of been a Data Scientist. Currently, I am seeking for an opportunity to learn and work in the professional field in Machine Learning and Data Science. 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-
