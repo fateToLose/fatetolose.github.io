@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+### Welcome to fateToLose. GitHub Page
+My name is Kenneth Lim. I started having interest in Machine Learning and Data Science in 2019 and have been studying on my own with the help of the mighty youtube and some MOOCs. It all started when I was in my Year 2 of university whereby I was taking a module called 'Element of Econometrics'. During that time I was puzzled on how does linear regression or classification will be used beyond after I graduated. Since then, I have build a strong interest into this field and have been learning it on my own paces. 
 
-You can use the [editor on GitHub](https://github.com/fateToLose/fatetolose.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This page will be a collection of projects that I will be doing and treating it like my little diary towards my goal of been a Data Scientist. Currently, I am seeking for an opportunity to learn and work in the professional field in Machine Learning and Data Science. 
 
 ### Markdown
 
@@ -26,12 +25,4 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fateToLose/fatetolose.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
